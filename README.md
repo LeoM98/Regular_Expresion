@@ -1,1 +1,1 @@
-# Proyecto-de-toeria-
+Proyecto de teoría de la computación.
